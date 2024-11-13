@@ -1,0 +1,15 @@
+{
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "ID": "AP41.240925.009",
+  "BRAND": "google",
+  "DEVICE": "akita",
+  "PRODUCT": "akita_beta",
+  "INCREMENTAL": "12534705",
+  "RELEASE": "15",
+  "FINGERPRINT": "google/akita_beta/akita:15/AP41.240925.009/12534705:user/release-keys",
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 8a",
+  "SECURITY_PATCH": "2024-10-05",
+  "DEVICE_INITIAL_SDK_INT": 21
+}
