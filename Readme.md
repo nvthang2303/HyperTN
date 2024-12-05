@@ -1,6 +1,7 @@
-### MIUITN
+### HyperTN | MIUITN
 - Sửa đổi bởi Thang Nguyen.
 - Dựa trên ROM China gốc.
+- Hỗ trợ Android 12+
 ### Download rom:
 - Tìm "Codename" thiết bị của bạn (có thể sử dụng tìm kiếm Google hoặc [Tại đây](https://xiaomiui.net/all-xiaomi-codenames-5137))
 - Vào thư mục "MIUITN -> Codename" và tải rom về.
