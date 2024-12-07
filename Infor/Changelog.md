@@ -1,25 +1,14 @@
 ### Phiên bản 2.6:
-
 - Chỉ hỗ trợ cài đặt qua Fastboot.
-
 - Fix Integrity (2 dòng).
-
 - Fix lỗi không sử dụng được một số bank.
-
 - Fix lỗi mất điều hướng trong Google Maps ở Miui.
-
 - Fix lỗi Thư viện chiếm dung lượng bộ nhớ cao do tự động tải ảnh gốc.
-
 - Fix lỗi không có ngôn ngữ tiếng Việt trong bản Miui một số thiết bị.
-
 - Fix lỗi Trung tâm điều khiển thông báo bị trong suốt bất thường.
-
 - Thêm Circle Search (Cập nhật app Google, xoá dữ liệu nếu không dùng được).
-
 - Thêm tùy chọn bật eSIM cho các thiết bị có hỗ trợ.
-
 - Cập nhật các ứng dụng mod mới như Bảo mật (HyperOS2), App Vault, Trình khởi chạy, Chủ đề.
-
 ### Phiên bản 2.5:
 
 - Phiên bản 2.5 sẽ có tình trạng dữ liệu là mã hoá. (Vì vậy có thể update từ HyperTN 2.4, đối với các phiên bản khác cần format data).
