@@ -14,4 +14,4 @@ Từ V2.6, mình sẽ set quyền flash rom TN qua số serial thiết bị.
 HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, hãy ủng hộ mình một ly cà phê để tiếp thêm động lực phát triển nó.
 - Momo: https://me.momo.vn/miuitn
 - Techcombank: 14025025164011
-- Paypal: paypal.me/nvthang2303
+- Paypal: https://www.paypal.me/nvthang2303
