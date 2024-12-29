@@ -1,4 +1,4 @@
-## HyperTN | MIUITN
+# HyperTN | MIUITN
 - Sửa đổi bởi Thang Nguyen.
 - Dựa trên ROM China gốc.
 - Hỗ trợ Android 12+
