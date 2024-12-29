@@ -8,7 +8,7 @@
 - Vào thư mục "MIUITN -> Codename" và tải rom về.
 
 ### Hỗ trợ:
-- Miui 12, 12.5, 13, 14 - Android 10, 11, 12, 13.
+- Android 12+, Miui + Hyper.
 - Tất cả các thiết bị có ROM China.
 
 ### Link Telegram: 
