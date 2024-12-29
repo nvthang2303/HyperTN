@@ -1,3 +1,27 @@
+[x] Version 2.6:
+
+- @Hiends29 (For font, MiuiHome, support).
+ 
+- @maiphp (For MiuiHome, App Vault).
+
+- @Kimnam2005 (For Security).
+
+- @butinhi (For string languages).
+
+- @XiaomiEU (For string languages, some mods and apps). 
+
+- @Evolution X (For spoof in framework).
+
+- @chiteroman (For spoof bootloader)
+
+- 4PDA (For some mods).
+
+- @kakashi (For Themes).
+
+- Xposeded (For Home).
+
+- And members have tested Ver 2.6.
+ 
 [x] Version 2.5:
 
 - @Hiends29 (For font, MiuiHome, support).
