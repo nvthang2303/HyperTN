@@ -2,7 +2,7 @@ Bản TN từ 2.3 trở xuống là không mã hoá dữ liệu; từ 2.4 trở 
 => Qua lại giữa các bản mã hoá và không mã hoá cần format data.
 
 ## Đối với bản 2.6 trở lên:
-- Đăng kí quyền Flash ROM TN theo hướng dẫn: [Tại đây](https://github.com/nvthang2303/HyperTN/blob/main/Active/Registration_VIE.md).
+- Đăng kí quyền Flash HyperTN | MIUITN theo hướng dẫn: [Tại đây](https://github.com/nvthang2303/HyperTN/blob/main/Active/Registration_VIE.md).
 -  Cài driver cho PC (Cách nhanh nhất là cài MiSuite). 
 - Đưa máy về chế độ fastboot -> Giải nén rom .7z trong PC -> Chạy file "TNFlash.exe" (Không chạy quyền Admin) -> Gõ "2" nếu giữ dữ liệu, gõ "1" nếu Format data -> Nhấn Enter và chờ báo thành công đồng thời điện thoại khởi động lại.
 
