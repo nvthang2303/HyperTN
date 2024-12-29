@@ -1,5 +1,5 @@
 ## Từ bản V2.6 cần phải đăng kí số serial của thiết bị để có quyền flash rom TN. Các bạn vui lòng điền chính xác thông tin theo form ở link đăng kí này.
-### Link đăng kí: https://forms.gle/2yZ9vJxdMGgVZ6So8
+- Link đăng kí: https://forms.gle/2yZ9vJxdMGgVZ6So8
 ## Hạn dùng:
 - Đối với trường hợp bạn chưa từng donate thì hạn sử dụng sẽ là 1 tháng.
 - Đối với trường hợp bạn có donate (trong 1 năm trở lại đây) với bất kì số tiền nào thì hạn dùng là 1 năm.
