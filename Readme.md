@@ -18,4 +18,4 @@
 - [Group support](http://t.me/MiuiTNGroup)
 
 ## Tất cả thông tin khác:
-[Tại đây](https://github.com/nvthang2303/HyperTN/tree/main/Information_VIE) 
+- [Tại đây](https://github.com/nvthang2303/HyperTN/tree/main/Information_VIE) 
