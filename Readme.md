@@ -16,3 +16,5 @@
 ## Link Telegram: 
 - [Channel](http://t.me/MiuiTNChannel)
 - [Group support](http://t.me/MiuiTNGroup)
+
+## Các thông tin khác: 
