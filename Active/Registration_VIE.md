@@ -8,6 +8,9 @@
 - Mỗi email chỉ được đăng kí 1 lần duy nhất. Chỉ khi hết hạn bạn mới có thể đăng kí lại.
 - Sau khi submit form thì sau 10 phút bạn có thể flash rom.
 - Có thể kiểm tra hạn dùng bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
-
-### Channel: t.me@MiuiTNChannel
-### Support: t.me@MiuiTNGroup
+### Thông tin Donate:
+HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, có thể ủng hộ tôi một ly cà phê để tiếp thêm động lực phát triển.
+- Zalopay/Momo/Viettelpay: 0356144996
+- Techcombank: 14025025164011
+- Paypal: paypalme/nvthang2303
+Thanks for your donate.
