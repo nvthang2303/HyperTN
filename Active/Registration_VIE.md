@@ -10,8 +10,8 @@
 - Có thể kiểm tra hạn dùng bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
 ### Thông tin Donate:
 HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, có thể ủng hộ tôi một ly cà phê để tiếp thêm động lực phát triển.
-- Zalopay/Momo/Viettelpay: 0356144996
-- Techcombank: 14025025164011
-- Paypal: paypalme/nvthang2303
+- Momo: https://me.momo.vn/miuitn
+- Techcombank: 14025025164011 (NGUYEN VAN THANG)
+- Paypal: https://www.paypal.me/nvthang2303
 
 Thanks for your donate.
