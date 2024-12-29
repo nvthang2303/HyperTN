@@ -8,7 +8,7 @@ Bản TN từ 2.3 trở xuống là không mã hoá dữ liệu; từ 2.4 trở 
 
 Lưu ý: Vào recovery để format data và khởi động lại hoặc chạy lại rom qua fastboot 1 lần nữa nếu không boot được.
 
-## Đối với bản 2.5 trở lên:
+## Đối với bản 2.5 trở xuống:
 1. Cài qua Recovery:
 
 a. Flash đè: Nếu đang dùng MiuiTN  (không mất dữ liệu)
