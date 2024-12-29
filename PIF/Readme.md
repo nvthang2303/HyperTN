@@ -1,0 +1,1 @@
+Pass Play Integrity: Fix lỗi chứng nhận Google Play Protect (Play Integrity) để dùng được Google Pay, cũng như một số ngân hàng khác. Một số thiết bị không pass nhưng vẫn sẽ dùng được Google Play. Khi Google fix vui lòng cài đặt APK mới nhất tại thư mục này và khởi động lại. (Áp dụng con Ver 2.3 trở lên).
