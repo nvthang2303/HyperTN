@@ -17,4 +17,4 @@
 - [Channel](http://t.me/MiuiTNChannel)
 - [Group support](http://t.me/MiuiTNGroup)
 
-## Các thông tin khác: 
+## [Các thông tin khác]:(https://github.com/nvthang2303/HyperTN/tree/main/Information_VIE) 
