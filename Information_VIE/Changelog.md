@@ -1,4 +1,4 @@
-[x] Phiên bản 2.6:
+## Phiên bản 2.6:
 
 - Hỗ trợ HyperOS 2.
 
@@ -24,7 +24,7 @@
 
 - Cập nhật các ứng dụng mod mới như Bảo mật (HyperOS2), App Vault, Trình khởi chạy, Chủ đề.
 
-[x] Phiên bản 2.5:
+## Phiên bản 2.5:
 
 - Phiên bản 2.5 sẽ có tình trạng dữ liệu là mã hoá. (Vì vậy có thể update từ HyperTN 2.4, đối với các phiên bản khác cần format data).
 
@@ -62,7 +62,7 @@
 
 - Sử dụng Bảo mật mod mới, có hiển thị sức khoẻ pin thực tế.
 
-[x] Phiên bản 2.4:
+## Phiên bản 2.4:
 
 - Sử dụng code build mới phù hợp với các máy đời mới.
 
@@ -80,7 +80,7 @@
 
 - Cập nhập mới các app mod.
 
-[x] Phiên bản 2.3:
+## Phiên bản 2.3:
 
 - Fix lỗi chứng nhận Google Play Protect (Play Integrity) để dùng được Google Pay, cũng như một số ngân hàng khác. Một số thiết bị không pass nhưng vẫn sẽ dùng được Google Play.
 
@@ -100,7 +100,7 @@
 
 - Update phiên bản mới cho Bảo mật, Thư viện, Realme Search, Thời tiết, Joyose, Ví thẻ Mi.
 
-[x] Phiên bản 2.2:
+## Phiên bản 2.2:
 
 - Fix lỗi chứng nhận Google Play Protect (Play Integrity) do Google vừa thay đổi API.
 
@@ -130,7 +130,7 @@
 
 - Sử dụng một số ứng dụng từ HyperOS như Trinhf cài đặt gói, Thời Tiết, Ghi chú, Trình dọn dẹp, Ghi màn hình.
 
-[x] Phiên bản 2.1:
+## Phiên bản 2.1:
 
 - Pass SafetyNet mặc định -> Tất cả app ngân hàng sẽ hoạt động ok (Nếu bạn root chỉ cần ẩn 2 mục com.google.android.gms và com.google.android.gms.unstable của Dịch vụ Google Play thì sẽ pass SafetyNet, không cần sử dụng module fix SafetyNet).
 
@@ -152,7 +152,7 @@
 
 - Fix lỗi không boot ở một vài thiết bị chip MTK.
 
-[x] Phiên bản 2.0:
+## Phiên bản 2.0:
 
 - Thêm Đa ngôn ngữ như EU Rom.
 
@@ -196,7 +196,7 @@
 
 - Sửa lỗi font trong Google Maps ở 1 số thiết bị.
 
-[x] Phiên bản 1.9:
+## Phiên bản 1.9:
 
 - Hỗ trợ cho các thiết bị erofs.
 
@@ -222,7 +222,7 @@
 
 - Có thể vô hiệu hóa các ứng dụng hệ thống.
 
-[x] Phiên bản 1.8:
+## Phiên bản 1.8:
 
 - Thay đổi logo MiuiTN.
 
@@ -246,7 +246,7 @@
 
 - Bật tốc độ làm mới thông minh trong cài đặt hiển thị.
 
-[x] Phiên bản 1.7:
+## Phiên bản 1.7:
 
 - Sử dụng phông chữ Helvetica sửa đổi bởi @ Hiends29.
 
@@ -266,7 +266,7 @@
 
 - Xóa mod Google Photo Unlimited vì nó không hoạt động.
 
-[x] Phiên bản 1.6:
+## Phiên bản 1.6:
 
 - Thay đổi phông chữ thành phông chữ HarmonyOS.
 
@@ -294,9 +294,9 @@
 
 - Kích hoạt tính năng tải trước AI trong MiuiLab.
 
-Sửa camera cho Munch.
+- Sửa camera cho Munch.
 
-[x] Phiên bản 1.5:
+## Phiên bản 1.5:
 
 - Sử dụng App Vault 5.x của EUXiaomi cho tất cả các phiên bản rom. (Như vậy sẽ có widget mới của miui 13 cho cả miui 12 và 12.5).
 
