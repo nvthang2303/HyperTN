@@ -2,7 +2,7 @@
 
 - Hỗ trợ HyperOS 2.
 
-- Chỉ hỗ trợ cài đặt qua Fastboot.
+- Chỉ hỗ trợ cài đặt qua Fastboot. Cần đăng kí số serial để có quyền flash rom.
 
 - Fix Integrity (2 dòng) cho Ví Google và bank như ABBank, KPlus...
 
