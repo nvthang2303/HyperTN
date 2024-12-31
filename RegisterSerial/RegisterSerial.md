@@ -1,4 +1,4 @@
-## Đăng kí số serial của thiết bị để có quyền flash HyperTN | MIUITN.
+## Đăng kí số serial để có quyền flash HyperTN | MIUITN.
 - Link đăng kí: https://forms.gle/2yZ9vJxdMGgVZ6So8
 ## Hạn dùng:
 - Đối với trường hợp bạn chưa từng donate thì hạn sử dụng sẽ là 1 tháng.
