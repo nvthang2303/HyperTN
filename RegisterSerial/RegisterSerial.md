@@ -1,4 +1,4 @@
-## Từ bản V2.6 cần phải đăng kí số serial của thiết bị để có quyền flash rom TN. Các bạn vui lòng điền chính xác thông tin theo form ở link đăng kí này.
+## Từ bản V2.6 cần phải đăng kí số serial của thiết bị để có quyền flash HyperTN | MIUITN.
 - Link đăng kí: https://forms.gle/2yZ9vJxdMGgVZ6So8
 ## Hạn dùng:
 - Đối với trường hợp bạn chưa từng donate thì hạn sử dụng sẽ là 1 tháng.
