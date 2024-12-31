@@ -8,6 +8,7 @@
 - Mỗi email chỉ được đăng kí 1 lần duy nhất. Chỉ khi hết hạn bạn mới có thể đăng kí lại.
 - Sau khi submit form thì sau 10 phút bạn có thể flash rom.
 - Có thể kiểm tra hạn dùng bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
+- Mình nhấn mạnh là việc đăng kí serial này là để có "quyền flash ROM TN", khi bạn đã flash được thì bạn sẽ dùng mãi không phụ thuộc vào hạn đăng kí.  Và ROM TN vẫn là free, nếu bạn không donate thì vẫn điền form gia hạn quyền cài sau 1 tháng, và cứ thế. Này mình thêm quyền lợi cho các bạn có donate và hạn chế một vài trường hợp lạm dụng ROM cài lấy phí ROM cho người dùng.
 ## Thông tin Donate:
 HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, có thể ủng hộ tôi một ly cà phê để tiếp thêm động lực phát triển.
 - Momo: https://me.momo.vn/miuitn
