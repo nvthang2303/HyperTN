@@ -4,6 +4,6 @@ HyperTN | MIUITN is available for free. If you enjoy using it, consider buying m
 - Momo: https://me.momo.vn/miuitn
 - Techcombank: 14025025164011 (NGUYEN VAN THANG)
 - Paypal: https://www.paypal.com/paypalme/nvthang2303
-- "Gift Stars" Telegram: https://t.me/Nvthang2303
+- "Send a Gift" in Telegram: https://t.me/Nvthang2303
 
 Thanks for your donate.
