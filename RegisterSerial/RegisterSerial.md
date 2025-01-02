@@ -15,5 +15,6 @@ HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, có th�
 - Momo: https://me.momo.vn/miuitn
 - Techcombank: 14025025164011 (NGUYEN VAN THANG)
 - Paypal: https://www.paypal.me/nvthang2303
+- "Send a Gift" in Telegram: https://t.me/Nvthang2303
 
 Thanks for your donate.
