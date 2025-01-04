@@ -6,8 +6,6 @@
 
 - Fix Integrity (2 dòng) cho Ví Google và bank như ABBank, KPlus...
 
-- Fix lỗi không sử dụng được một số bank.
-
 - Fix lỗi Thư viện chiếm dung lượng bộ nhớ cao do tự động tải ảnh gốc.
 
 - Fix lỗi không có ngôn ngữ tiếng Việt trong bản Miui các thiết bị MTK.
