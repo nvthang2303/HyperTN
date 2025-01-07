@@ -1,15 +1,15 @@
 {
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "ID": "BP21.241121.009",
-  "BRAND": "google",
-  "DEVICE": "tokay",
-  "PRODUCT": "tokay_beta",
-  "INCREMENTAL": "12787338",
-  "RELEASE": "15",
-  "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP21.241121.009/12787338:user/release-keys",
-  "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9",
-  "SECURITY_PATCH": "2024-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 7a",
+    "FINGERPRINT": "google/lynx_beta/lynx:15/BP11.241121.010/12780007:user/release-keys",
+    "BRAND": "google",
+    "PRODUCT": "lynx_beta",
+    "DEVICE": "lynx",
+    "VERSION.RELEASE": "15",
+    "ID": "BP11.241121.010",
+    "VERSION.INCREMENTAL": "12780007",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "VERSION.SECURITY_PATCH": "2024-12-05",
+    "VERSION.DEVICE_INITIAL_SDK_INT": "21"
 }
