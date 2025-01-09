@@ -12,6 +12,8 @@
 
 - Fix lỗi Trung tâm điều khiển thông báo bị trong suốt bất thường trên Mũi.
 
+- Thêm Phụ đề AI cho phiên dịch, sử dụng bằng cách dùng nút trên Trung tâm điều khiển.
+
 - Thêm Circle Search (Cập nhật app Google, xoá dữ liệu nếu không dùng được). Cách dùng: chọn nút Circle Search trong Trung tâm điều khiển khi muốn dùng. Với HyperOS2 thì thêm tùy chọn nhấn giữ thanh điều hướng để dùng (Cần chọn Ứng dụng Trợ lí kĩ thuật số mặc định là Google).
 
 - Thêm tùy chọn bật eSIM cho các thiết bị có hỗ trợ.
