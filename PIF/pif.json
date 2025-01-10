@@ -5,11 +5,11 @@
   "BRAND": "google",
   "DEVICE": "tokay",
   "PRODUCT": "tokay_beta",
-  "INCREMENTAL": "12787338",
-  "RELEASE": "15",
+  "VERSION.INCREMENTAL": "12787338",
+  "VERSION.RELEASE": "15",
   "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP21.241121.009/12787338:user/release-keys",
   "MANUFACTURER": "Google",
   "MODEL": "Pixel 9",
-  "SECURITY_PATCH": "2024-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25
+  "VERSION.SECURITY_PATCH": "2024-12-05",
+  "VERSION.DEVICE_INITIAL_SDK_INT": 25
 }
