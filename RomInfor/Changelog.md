@@ -2,9 +2,9 @@
 
 - Chỉ dành cho HyperOS 2.
 
-- Fix lỗi không boot trên một số thiết bị.
+- Fix không boot trên một số thiết bị.
 
-- Fix Lỗi không pass Integrity trên các thiết bị chip MTK.
+- Fix không pass Integrity trên các thiết bị chip MTK.
 
 - Thêm corepatch để có thể cài đặt ứng dụng mod đã sign.
 
