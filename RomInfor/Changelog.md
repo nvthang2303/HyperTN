@@ -1,16 +1,16 @@
 ## Phiên bản 2.65:
 
-- Chỉ dành cho HyperOS 2.
+- Chỉ dành cho HyperOS 2 và một số thiết bị chạy chip MTK..
 
 - Fix không boot trên một số thiết bị.
 
 - Fix không pass Integrity trên các thiết bị chip MTK.
 
-- Thêm corepatch để có thể cài đặt ứng dụng mod đã sign.
+- Thêm corepatch để có thể cài đặt ứng dụng mod đã sign HyperOS 2.
 
 - Fix không đăng nhập được Google, không set được mật khẩu.
 
-- Thêm một số tính năng mod cho launcher.
+- Thêm một số tính năng mod cho launcher HyperOS 2.
 
 - Cập nhập bộ giả mạo Game, Google mới nhất.
 
