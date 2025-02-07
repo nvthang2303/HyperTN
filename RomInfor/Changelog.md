@@ -1,6 +1,10 @@
+## Phiên bản 2.7:
+
+
+
 ## Phiên bản 2.65:
 
-- Chỉ dành cho HyperOS 2 và một số thiết bị chạy chip MTK..
+- Chỉ dành cho HyperOS 2 và một số thiết bị chạy chip MTK.
 
 - Fix không boot trên một số thiết bị.
 
