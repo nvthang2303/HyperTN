@@ -1,16 +1,15 @@
 {
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "ID": "BP21.241121.009",
-  "BRAND": "google",
-  "DEVICE": "oriole",
-  "FINGERPRINT": "google/oriole_beta/oriole:Baklava/BP21.241121.009/12787338:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 6",
-  "PRODUCT": "oriole_beta",
+  "BRAND": "google",
+  "DEVICE": "akita",
+  "PRODUCT": "akita_beta",
+  "MODEL": "Pixel 8a",
+  "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282 ty:user/release-keys",
+  "SECURITY_PATCH": "2025-01-05",
+  "DEVICE_INITIAL_SDK_INT": "25",
+  "INCREMENTAL": "12932282",
   "RELEASE": "15",
-  "SECURITY_PATCH": "2024-12-05",
-  "INCREMENTAL": "12787338",
-  "DEVICE_INITIAL_SDK_INT": 21,
-  "DEBUG": false
+  "ID": "BP22.250103.008"
+  "TYPE": "user",
+  "TAGS": "release-keys"
 }
