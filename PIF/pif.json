@@ -11,6 +11,6 @@
   "RELEASE": "Baklava",
   "SECURITY_PATCH": "2025-02-05",
   "DEVICE_INITIAL_SDK_INT": 35,
-  "DEBUG": false
+  "DEBUG": false,
   "VERSION": "20252102"
 }
